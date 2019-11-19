@@ -5,9 +5,9 @@ Items that I knew were against my beliefs and ideas of what our bodies need to m
 We believe your body deserves options. I am creating this app to connect people of color to healthy, meatless food options and black ran/owned businesses. This app will also connect black business to vegan enthusiasts throughout the USA and possibly the world.
 
 ## Features
-* **User Accounts:** Each family member will create their own account in order to make meal suggestions
-* **Calendar View:** Admins can add final meal decisions to the calendar, available to be viewed by everyone
-* **Voting:** Users can view all meal suggestions and vote on the ones that they would like to eat each week
+* **User Accounts:** Users will be able to create accounts and log in to the appliation. Each user will have a profile page. 
+* **Search:** Users will be able to query restaurants
+* **Sharing:** Users can view all meal suggestions and vote on the ones that they would like to eat each week
 ## Technologies
 * Mapbox
 * Java
