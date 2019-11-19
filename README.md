@@ -1,4 +1,4 @@
-# Blegan App - App for people of color to find healthy vegan-friendly 
+# Blegan App - App for people of color to find healthy vegan-friendly foods
 # Overview
 Do you ever find yourself in a new city excited and then realizing that you are unable to find vegan food that represents your culture? Do you ever find yourself in your own city without adequate food options due to your vegan/glutenfree life-style? I have personal experience with not being able to find options for my body and settling for meat, dairy, bread, or poultry. 
 Items that I knew were against my beliefs and ideas of what our bodies need to move. 
