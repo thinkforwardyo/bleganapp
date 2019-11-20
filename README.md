@@ -7,7 +7,7 @@ We believe your body deserves options. I am creating this app to connect people 
 ## Features
 * **User Accounts:** Users will be able to create accounts and log in to the appliation. Each user will have a profile page. 
 * **Search:** Users will be able to query restaurants
-* **Sharing:** Users can view all meal suggestions and vote on the ones that they would like to eat each week
+* **Comment:** Users will be able to comment on posts 
 ## Technologies
 * Mapbox
 * Java
