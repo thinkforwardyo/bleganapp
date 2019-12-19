@@ -18,9 +18,3 @@ We believe your body deserves options. I am creating this app to connect people 
 * Mapbox
 ### Project Tracker
 https://trello.com/b/2AaG2Xr7/blegan-app
-
-
-Blegan App-1.jpg
-Blegan App-2.jpg
-Blegan App-3.jpg
-Blegan App-4.jpg
