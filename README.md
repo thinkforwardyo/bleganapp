@@ -20,3 +20,6 @@ We believe your body deserves options. I am creating this app to connect people 
 https://trello.com/b/2AaG2Xr7/blegan-app
 
 ![Blegan App-1](https://user-images.githubusercontent.com/55636807/71200507-2b7f6800-2266-11ea-92e8-4994a183f85a.jpg)
+![Blegan App-2](https://user-images.githubusercontent.com/55636807/71200648-726d5d80-2266-11ea-84a0-d08d436f196e.jpg)
+![Blegan App-3](https://user-images.githubusercontent.com/55636807/71200649-74cfb780-2266-11ea-9f32-b9fdb55ed2ad.jpg)
+![Blegan App-4](https://user-images.githubusercontent.com/55636807/71200651-7600e480-2266-11ea-8ee4-d59d45464651.jpg)
